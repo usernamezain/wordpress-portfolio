@@ -72,4 +72,4 @@ All cursor-dependent and scroll-jacking effects (depth-peel stack, magnetic cons
 
 ## 📄 License
 
-All rights reserved. This design and codebase are the property of Zain Ali and may not be reproduced or reused without permission.
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details. Free to use, modify, and distribute, with attribution appreciated.
